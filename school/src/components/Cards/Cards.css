@@ -1,0 +1,29 @@
+.cards {
+  width: 220px;
+  height: 300px;
+  margin: 0 !important;
+  margin-bottom: 20px !important;
+  display: flex;
+  justify-content: center;
+}
+.cards h3 {
+  height: 10%;
+}
+.card-description {
+  width: 100%;
+  height: 40%;
+}
+.card-see_more {
+  width: 100%;
+  height: 40%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.card-see_more span {
+  color: #31658a;
+  text-decoration: underline;
+}
+.card-see_more span:hover {
+  cursor: pointer;
+}

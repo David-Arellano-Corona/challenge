@@ -1,0 +1,11 @@
+.location-info {
+  margin: 0 !important;
+  margin-bottom: 60px !important;
+}
+.location-info_bol {
+  font-weight: bold;
+  color: black;
+}
+.location-info_button div.button {
+  margin-bottom: 10px !important;
+}

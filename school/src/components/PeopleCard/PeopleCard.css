@@ -1,0 +1,29 @@
+.people-card {
+  height: 200px !important;
+  width: 400px !important;
+  margin: 0 !important;
+  margin-right: 20px !important;
+}
+
+.people-card .content {
+  width: 400px !important;
+}
+
+.people-card .description {
+  display: flex !important;
+}
+
+.people-card_bold {
+  font-weight: bold;
+  color: black;
+}
+
+.people-card_info {
+  width: 50%;
+}
+.people-card_img {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

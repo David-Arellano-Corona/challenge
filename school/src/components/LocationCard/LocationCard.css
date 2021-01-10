@@ -1,0 +1,28 @@
+.location-card {
+  height: 150px !important;
+  width: 400px !important;
+  margin: 0 !important;
+  margin-right: 20px !important;
+}
+
+.location-card .content {
+  width: 400px !important;
+}
+.location-card_bold {
+  font-weight: bold;
+  color: black;
+}
+
+.location-card .description {
+  display: flex !important;
+}
+
+.location-card_info {
+  width: 50%;
+}
+.location-card_img {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

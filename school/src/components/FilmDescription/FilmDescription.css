@@ -1,0 +1,16 @@
+.film-description {
+}
+.film-description_bold {
+  font-weight: bold;
+  color: black;
+}
+.film-description_buttons {
+  display: flex;
+}
+.film-description_content {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  overflow-x: auto;
+  padding: 10px;
+}

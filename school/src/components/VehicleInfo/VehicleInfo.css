@@ -1,0 +1,11 @@
+.vehicle-info {
+  margin: 0px !important;
+  margin-bottom: 60px !important;
+}
+.vehicle-info_bold {
+  font-weight: bold;
+  color: black;
+}
+.vehicle-info_button div.button {
+  margin-bottom: 10px !important;
+}

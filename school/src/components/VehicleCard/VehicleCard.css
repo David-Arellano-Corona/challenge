@@ -1,0 +1,32 @@
+.vehicle-card {
+  height: 200px !important;
+  width: 400px !important;
+  margin: 0 !important;
+  margin-right: 20px !important;
+}
+
+.vehicle-card .content {
+  width: 400px !important;
+}
+.vehicle-card_bold {
+  font-weight: bold;
+  color: black;
+}
+
+.vehicle .description {
+  display: flex !important;
+}
+
+.vehicle-card .description {
+  display: flex !important;
+}
+
+.vehicle-card_info {
+  width: 50%;
+}
+.vehicle-card_img {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

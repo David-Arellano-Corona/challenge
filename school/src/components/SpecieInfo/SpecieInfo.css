@@ -1,0 +1,11 @@
+.specie-info {
+  margin: 0px !important;
+  margin-bottom: 60px !important;
+}
+.specie-info_bold {
+  font-weight: bold;
+  color: black;
+}
+.species-info_button div.button {
+  margin-bottom: 10px !important;
+}

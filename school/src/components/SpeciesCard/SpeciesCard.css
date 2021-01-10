@@ -1,0 +1,32 @@
+.species-card {
+  height: 150px !important;
+  width: 400px !important;
+  margin: 0 !important;
+  margin-right: 20px !important;
+}
+
+.species-card .content {
+  width: 400px !important;
+}
+.species-card_bold {
+  font-weight: bold;
+  color: black;
+}
+
+.species .description {
+  display: flex !important;
+}
+
+.species-card .description {
+  display: flex !important;
+}
+
+.species-card_info {
+  width: 50%;
+}
+.species-card_img {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
